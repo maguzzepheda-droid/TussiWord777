@@ -1,12 +1,12 @@
 name = "TussiWord777"
-author = "Marko"
-version = "1.3.5"
+author = "Marco"
+version = "1.3.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "66f32e652525a6cf2ff9a460f79fc863d87948e3a290aa956ef01c035f349c29"
+hash = "eb532a044ee30c18b6873ce960af45fd45c793471fad4a45b09030c485febe64"
 
 [versions]
 forge = "47.4.20"
