@@ -809,11 +809,6 @@ file = "mods/jei-1.20.1-forge-15.20.0.130.jar"
 hash = "36d3dfb2214b9dca38c447fd971dd2dedc5f69719a5aca6ffcef69b2840ece0a"
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "db5b0e49607113eb8740838753460e6d2f8c718828fcc52b9fefd13adc4e4cae"
-metafile = true
-
-[[files]]
 file = "mods/journeymap-1.20.1-5.10.3-forge.jar"
 hash = "8b2679b7b4881e0aa430fd24345ea446de919faf8a45bd2a71d37c7e8ff6ae1e"
 
