@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/darkness.properties"
+file = "config/darkness2.properties"
 hash = "b40d709e65f44a76db4e758563cc0b25da16f025e5c496338c3d79a559610058"
 
 [[files]]
