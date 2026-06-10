@@ -157,6 +157,10 @@ file = "emotes/Указать мечом.emotecraft"
 hash = "c0128d8fd2a9d7f3a364250951cbd2e65c9fc67fb5eeefbd1042ece61dad6234"
 
 [[files]]
+file = "mods/Atlas Lib-1.20.1-1.1.12.jar"
+hash = "8cc9b5b46e65affed0c38aa54da6870ec4e820364c654c4dd2bb70a94ba39c50"
+
+[[files]]
 file = "mods/Aurora's-Arsenal-1.0.0-1.20.1.jar"
 hash = "56a69011206e49527f6c8357f49d581a54bee4f3c8bd43e1ee5f7fce9323882b"
 
@@ -253,6 +257,10 @@ file = "mods/SimplyTools-1.20.1-2.0.8.jar"
 hash = "8dc41fd86cf2335fccd3d75d9932f7b2499fbf11ca8f5c09bdd5e20cce57da7b"
 
 [[files]]
+file = "mods/The-Hordes-1.20.1-1.6.3e-all.jar"
+hash = "d811aaf8077a5321ea021a9d871d75edb1ab7e37d22d62218b0e7efa2546367e"
+
+[[files]]
 file = "mods/ToolBelt-1.20.1-1.20.03.jar"
 hash = "9c1b8c52d848055d7a4c60989f5b36247431c11d84a2e2975bb1ccfca2663030"
 
@@ -271,6 +279,10 @@ hash = "08c94eef7116790e09926074a09807f42ad3ddc685e400d5a27c457f5fb92f46"
 [[files]]
 file = "mods/amendments-1.20-2.2.5.jar"
 hash = "2ecb189991320d789cd2c539d770b5b52ad71eff93d186297d10853bcb6ee00a"
+
+[[files]]
+file = "mods/anvianslib-forge-1.20-1.4.2.jar"
+hash = "db27d65d7dc77530d4e1e796603155126f8bb5e49ac12abd7cd372206081a813"
 
 [[files]]
 file = "mods/architectury-9.2.14-forge.jar"
@@ -315,6 +327,10 @@ hash = "a00e37b978c6d73110157879373fe3e97784bbf0c8d4e5fc8dbd9f00e1113fc0"
 [[files]]
 file = "mods/copycats-3.0.7+mc.1.20.1-forge.jar"
 hash = "bc59446d8aff50924f805286927a1bda3df16c6f4e6f893865f410e581b62f1a"
+
+[[files]]
+file = "mods/coroutil-forge-1.20.1-1.3.7.jar"
+hash = "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f"
 
 [[files]]
 file = "mods/create-1.20.1-6.0.8.jar"
@@ -429,6 +445,10 @@ file = "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
 hash = "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14"
 
 [[files]]
+file = "mods/enhancedai-3.3.7.1.jar"
+hash = "0fa1a50c663659b11ddbb263eebf4b57be3ee5faf711945303d838372ac0df2f"
+
+[[files]]
 file = "mods/eureka-1201-1.6.1.jar"
 hash = "958106e0b5b5b6838484caa22fb2462f30492e8fd8205a863502aa29a7ded00d"
 
@@ -521,6 +541,10 @@ file = "mods/protection_pixel-2.2.1-forge-1.20.1.jar"
 hash = "d94b944dce3a4cc0d88c167366bf9e95efa5e58212403df7fec463d490f36592"
 
 [[files]]
+file = "mods/rechiseled-1.2.4-forge-mc1.20.1.jar"
+hash = "e27f19cac5c6a1946d71bffdd5ac88a32f63de209dcba9619069a3c1ff0dd079"
+
+[[files]]
 file = "mods/rechiseledcreate-1.1.0-forge-mc1.20.jar"
 hash = "1006c8deb08641ca21d15ee34d8959f6cde749d523206d0af162371e65e53b25"
 
@@ -575,6 +599,10 @@ hash = "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
 hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+
+[[files]]
+file = "mods/zombieawareness-1.20.1-1.13.1.jar"
+hash = "4f5104f7d29e1d065364d2483885f3751da2bef09a734cead2fce81c82c46586"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
