@@ -185,6 +185,10 @@ file = "mods/Create-Guardian-Beam-Defense-1.3.2b-1.20.1.jar"
 hash = "025b8a7f2e292856364157bce360caa2aa7aa3bd7d5d49bcb126cc83623d26fe"
 
 [[files]]
+file = "mods/CreateUnbreakableTools-1.9-1.20.1-forge-13.jar"
+hash = "29b026a2cc5a89e1be232849a9f9dfdb23032a0e2ec9f7e7b42268b148902022"
+
+[[files]]
 file = "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar"
 hash = "c6073eb7423f92709aef1e934da00983f6d4e8f05508ba0daa7287600869b441"
 
@@ -289,12 +293,20 @@ file = "mods/cbc_at_Forge_1.20.1_0.1.3b.jar"
 hash = "d1ee9780583144512bb99721f550d8055c1c2f61e9a75ff0014ab0a23cdaefd4"
 
 [[files]]
+file = "mods/cfwinfo-1.9.0+mc1.20.1.jar"
+hash = "4aeb098728e0b159ed1902f5ea676a5f116037325dd8da7d77c608528c54a534"
+
+[[files]]
 file = "mods/chisel-1.20.1-Forge-1.3.2.jar"
 hash = "3917f99f308664432cd8fc278a1eecf28bb5550efa18ce38de3903723f988142"
 
 [[files]]
 file = "mods/chisels-and-bits-forge-20.1.20.jar"
 hash = "682dab9c016b12b3da49ed4df037cc9483917cd50ec76b2bd6da4bfbf1237a2b"
+
+[[files]]
+file = "mods/clockwork-0.5.5.2.jar"
+hash = "092179d62ae0ac34e5ad45465ea7bd74b3292b3b21a9fe0d0ffdfa61c2b1d276"
 
 [[files]]
 file = "mods/connectedglass-1.1.14-forge-mc1.20.1.jar"
@@ -365,6 +377,10 @@ file = "mods/create_things_and_misc-4.1.0-forge-1.20.1.jar"
 hash = "ddbbfa8426611302c3e97ae9b691402de8b8270eac78f3ef5d585a58f19eb680"
 
 [[files]]
+file = "mods/create_tweaked_controllers-1.20.1-1.2.7.jar"
+hash = "2b0fb96c617d65f419e2d7f3875e89f79f1fdd89d89dddd4520f42da02b625a9"
+
+[[files]]
 file = "mods/create_ultimate_factory-2.2.3-forge-1.20.1.jar"
 hash = "270b0d0fda6b391476854f95486b72385d57947f428be49075442a1572f3cd40"
 
@@ -413,6 +429,10 @@ file = "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
 hash = "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14"
 
 [[files]]
+file = "mods/eureka-1201-1.6.1.jar"
+hash = "958106e0b5b5b6838484caa22fb2462f30492e8fd8205a863502aa29a7ded00d"
+
+[[files]]
 file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
 
@@ -431,6 +451,10 @@ hash = "5cb039922e08ae6b8705d50e484a8759579025fb4f48413fa62d2056505fb45e"
 [[files]]
 file = "mods/geckolib-forge-1.20.1-4.8.3.jar"
 hash = "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250"
+
+[[files]]
+file = "mods/happy_ghast-3.0.0-forge-1.20.1.jar"
+hash = "e7c15f9874b5e36448c0c9c1b811908da13c5efd923ed4fd79b3bd35aea51095"
 
 [[files]]
 file = "mods/incontrol-1.20-9.4.6.jar"
@@ -497,6 +521,10 @@ file = "mods/protection_pixel-2.2.1-forge-1.20.1.jar"
 hash = "d94b944dce3a4cc0d88c167366bf9e95efa5e58212403df7fec463d490f36592"
 
 [[files]]
+file = "mods/rechiseledcreate-1.1.0-forge-mc1.20.jar"
+hash = "1006c8deb08641ca21d15ee34d8959f6cde749d523206d0af162371e65e53b25"
+
+[[files]]
 file = "mods/rhino-forge-2001.2.3-build.10.jar"
 hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
 
@@ -525,8 +553,16 @@ file = "mods/tombstone-1.20.1-9.0.10.jar"
 hash = "14b4be93c4be496c21819e59be8ecc197fa72408e09485b4d718cfc1681a8a84"
 
 [[files]]
+file = "mods/trackwork-1.20.1-1.2.4.jar"
+hash = "7f6f50a54391af43e9e4590e20ddab9af9fa3388c1b97399be6fbda5b57efca5"
+
+[[files]]
 file = "mods/travelersbackpack-forge-1.20.1-9.1.54.jar"
 hash = "ad6f98357f073917037908b51edbe8c775730f71f241fd955a976b979464143b"
+
+[[files]]
+file = "mods/valkyrienskies-120-2.4.11.jar"
+hash = "f99f24de62015451a047f90484cf9d25970cac350105b581c22b2d5247ebfd53"
 
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.17.jar"
