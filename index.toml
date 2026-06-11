@@ -353,6 +353,10 @@ file = "mods/create_aquatic_ambitions-1.20.1-6.0.8-2.0.2.jar"
 hash = "09c234982c5933ff6b1847b25ddf729835e8353ba9f0a75d9a5643c677e5b440"
 
 [[files]]
+file = "mods/create_connected-1.2.2-mc1.20.1-all.jar"
+hash = "7abd027d953b829211d16a79ea3272a49b924086094f4a6d429312b9472a97ce"
+
+[[files]]
 file = "mods/create_copper_and_zinc-2.0.0-forge-1.20.1.jar"
 hash = "4dcc2020e7509e00819ae08d52a0f704c62a8bd15b342647666863058d9b791b"
 
